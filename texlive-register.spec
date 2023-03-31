@@ -1,6 +1,6 @@
 Name:		texlive-register
 Version:	54485
-Release:	1
+Release:	2
 Summary:	Typeset programmable elements in digital hardware (registers)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/register
