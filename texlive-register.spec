@@ -3,7 +3,7 @@ Version:	54485
 Release:	2
 Summary:	Typeset programmable elements in digital hardware (registers)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/register
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/register
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/register.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/register.doc.r%{version}.tar.xz
